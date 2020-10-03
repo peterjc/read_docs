@@ -149,7 +149,7 @@ Using FTP Command Line Client On Windows
 1. Use FTP command line client on Windows
 2. Start the command line interpreter: press Win-R -> type `cmd` -> press Enter
 3. Type ``ftp``
-4. Type ``open webin.ebi.ac.uk``
+4. Type ``open webin2.ebi.ac.uk``
 5. Enter the username and password associated with your Webin submission
    account.
 6. Type ``bin`` to use binary mode.
